@@ -2,6 +2,8 @@
 
 > The open TypeScript starter for building AI agent products people can actually fork, ship, and extend.
 
+[中文说明](./README.zh-CN.md)
+
 [![MIT License](https://img.shields.io/badge/license-MIT-black.svg)](LICENSE)
 [![TypeScript](https://img.shields.io/badge/built%20with-TypeScript-3178C6.svg)](#tech-stack)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](#contributing)
